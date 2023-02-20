@@ -1,0 +1,7 @@
+Epoch: [0]  [   100/118287]  eta: 9:19:14  lr: 0.000100  class_error: 100.00  grad_norm: 83.67  loss: 35.8296 (38.7851)  time: 0.2454  data: 0.0000  max mem: 5799
+Epoch: [0]  [   200/118287]  eta: 8:53:42  lr: 0.000100  class_error: 100.00  grad_norm: 79.38  loss: 27.3489 (35.6781)  time: 0.2922  data: 0.0000  max mem: 5799
+
+Epoch: [0]  [   300/118287]
+eta: 8:52:20  lr: 0.000100  class_error: 100.00
+grad_norm: 52.97
+loss: 26.1761 (33.2044)  time: 0.2880  data: 0.0000  max mem: 5799
